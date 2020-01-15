@@ -1,6 +1,6 @@
 {
   "name": "@codezone/simple-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple number formater",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,7 @@
     "url": "git+https://github.com/sumitLKpatel/simple-format.git"
   },
   "keywords": [
-    "[\"Number",
-    "Formater\"",
+    "[\"NumberFormater",
     "\"round\"]"
   ],
   "author": "“Sumit <sumit117.it@gmail.com>",

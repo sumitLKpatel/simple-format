@@ -1,6 +1,5 @@
 # simple-format
 This is small library which convert or format number
-=========
 
 ## Installation
 

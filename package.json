@@ -1,5 +1,5 @@
 {
-  "name": "simple-format",
+  "name": "@codezone/simple-format",
   "version": "1.0.0",
   "description": "Simple number formater",
   "main": "index.js",
